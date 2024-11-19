@@ -1,2 +1,2 @@
 # TrainingProjects
-Training Projects
+Apty Training Projects
